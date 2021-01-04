@@ -19,3 +19,5 @@ do{
   console.log(suma, contador);
 
 } while (numero >= 0);
+
+alert("La suma de todos los numeros es: "+ suma + " y la media de todos los numeros es: "+ (suma/contador));
